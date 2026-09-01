@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Kindergeld.vcxproj" Id="9cb382ee-9f1b-434d-b9a5-50408d48b8fd" />
+</Solution>

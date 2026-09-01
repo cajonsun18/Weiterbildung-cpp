@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Temperat.c98c316c\\x64\\Debug\\Temperaturrechner.obj",
+            "outputs": [
+                "Temperat.c98c316c\\x64\\Debug\\Temperaturrechner.cpp.obj.dt.module.json",
+                "Temperat.c98c316c\\x64\\Debug\\Temperaturrechner.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

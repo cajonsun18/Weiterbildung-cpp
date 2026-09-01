@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Mehrwertsteuer\\x64\\Debug\\Mehrwertsteuer.obj",
+            "outputs": [
+                "Mehrwertsteuer\\x64\\Debug\\Mehrwertsteuer.cpp.obj.dt.module.json",
+                "Mehrwertsteuer\\x64\\Debug\\Mehrwertsteuer.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

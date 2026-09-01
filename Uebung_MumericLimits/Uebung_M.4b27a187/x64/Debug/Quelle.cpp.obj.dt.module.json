@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Uebung_M.4b27a187\\x64\\Debug\\Quelle.obj",
+            "outputs": [
+                "Uebung_M.4b27a187\\x64\\Debug\\Quelle.cpp.obj.dt.module.json",
+                "Uebung_M.4b27a187\\x64\\Debug\\Quelle.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
