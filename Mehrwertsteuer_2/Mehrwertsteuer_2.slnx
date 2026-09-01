@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Mehrwertsteuer/Mehrwertsteuer.vcxproj" Id="1e17f43d-93db-4b42-aa5a-edc427a70cfb" />
+  <Project Path="Mehrwertsteuer_2.vcxproj" Id="3c34d0e1-8ca7-4220-a372-573968b668a9" />
+</Solution>
