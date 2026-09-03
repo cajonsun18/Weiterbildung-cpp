@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Schrankbau\\x64\\Debug\\Schrankbau.obj",
+            "outputs": [
+                "Schrankbau\\x64\\Debug\\Schrankbau.cpp.obj.dt.module.json",
+                "Schrankbau\\x64\\Debug\\Schrankbau.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Aquarium\\x64\\Debug\\Aquarium.obj",
+            "outputs": [
+                "Aquarium\\x64\\Debug\\Aquarium.cpp.obj.dt.module.json",
+                "Aquarium\\x64\\Debug\\Aquarium.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Schrankbau.vcxproj" Id="a5a2a3d8-0997-4fce-bae5-045633c3a45d" />
+</Solution>

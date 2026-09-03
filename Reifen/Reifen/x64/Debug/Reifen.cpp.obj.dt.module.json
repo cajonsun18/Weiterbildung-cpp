@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reifen\\x64\\Debug\\Reifen.obj",
+            "outputs": [
+                "Reifen\\x64\\Debug\\Reifen.cpp.obj.dt.module.json",
+                "Reifen\\x64\\Debug\\Reifen.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
