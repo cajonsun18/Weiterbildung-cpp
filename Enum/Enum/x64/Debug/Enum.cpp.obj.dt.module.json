@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Enum\\x64\\Debug\\Enum.obj",
+            "outputs": [
+                "Enum\\x64\\Debug\\Enum.cpp.obj.dt.module.json",
+                "Enum\\x64\\Debug\\Enum.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

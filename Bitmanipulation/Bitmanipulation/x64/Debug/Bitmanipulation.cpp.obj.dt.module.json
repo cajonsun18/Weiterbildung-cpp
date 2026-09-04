@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Bitmanipulation\\x64\\Debug\\Bitmanipulation.obj",
+            "outputs": [
+                "Bitmanipulation\\x64\\Debug\\Bitmanipulation.cpp.obj.dt.module.json",
+                "Bitmanipulation\\x64\\Debug\\Bitmanipulation.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

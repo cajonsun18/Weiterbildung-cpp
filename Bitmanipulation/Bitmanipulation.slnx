@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Reifen.vcxproj" Id="d954d785-a074-451c-885c-a9844c3a72f5" />
+  <Project Path="Bitmanipulation.vcxproj" Id="c83f5efd-0c0b-465f-bc78-e8ad1a12cd5b" />
 </Solution>

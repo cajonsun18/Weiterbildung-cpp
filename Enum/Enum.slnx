@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Reifen.vcxproj" Id="d954d785-a074-451c-885c-a9844c3a72f5" />
+  <Project Path="Enum.vcxproj" />
 </Solution>
