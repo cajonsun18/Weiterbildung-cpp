@@ -9,7 +9,7 @@ int main()
 		obergrenze = 0, 
 		zufallszahl = 0;
 
-    cout << "Geben Sie eine Unter- und Obergrenze an: " << endl;
+    cout << "Gebe eine Unter- und Obergrenze an: " << endl;
 	cout << "Untergrenze: ";
 	cin >> untergrenze;
 	cout << "Obergrenze: ";
@@ -26,6 +26,5 @@ int main()
 		{
 			cout << endl;
 		}
-
 	}
 }
