@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Fahrkart.9143b6b9\\x64\\Debug\\Fahrkartenautomat.obj",
+            "outputs": [
+                "Fahrkart.9143b6b9\\x64\\Debug\\Fahrkartenautomat.cpp.obj.dt.module.json",
+                "Fahrkart.9143b6b9\\x64\\Debug\\Fahrkartenautomat.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

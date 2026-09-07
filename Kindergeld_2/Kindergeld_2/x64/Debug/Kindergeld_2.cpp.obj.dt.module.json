@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Kindergeld_2\\x64\\Debug\\Kindergeld_2.obj",
+            "outputs": [
+                "Kindergeld_2\\x64\\Debug\\Kindergeld_2.cpp.obj.dt.module.json",
+                "Kindergeld_2\\x64\\Debug\\Kindergeld_2.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

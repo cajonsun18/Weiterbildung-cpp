@@ -44,7 +44,7 @@ int main()
 	brett_oben_h = tiefe - brett_hinten_t;
 	brett_oben_t = brettstaerke;
 
-	brett_tuer_b = hoehe - 2 * (brettstaerke - tuerabstand);
+	brett_tuer_b = hoehe - 2 * (brettstaerke + tuerabstand);
 	brett_tuer_h = (breite / 2) - tuerabstand;
 	brett_tuer_t = brettstaerke;
 
