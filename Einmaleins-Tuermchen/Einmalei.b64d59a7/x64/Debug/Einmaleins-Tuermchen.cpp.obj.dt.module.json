@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Einmalei.b64d59a7\\x64\\Debug\\Einmaleins-Tuermchen.obj",
+            "outputs": [
+                "Einmalei.b64d59a7\\x64\\Debug\\Einmaleins-Tuermchen.cpp.obj.dt.module.json",
+                "Einmalei.b64d59a7\\x64\\Debug\\Einmaleins-Tuermchen.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

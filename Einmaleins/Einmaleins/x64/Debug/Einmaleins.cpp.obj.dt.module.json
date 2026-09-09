@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Einmaleins\\x64\\Debug\\Einmaleins.obj",
+            "outputs": [
+                "Einmaleins\\x64\\Debug\\Einmaleins.cpp.obj.dt.module.json",
+                "Einmaleins\\x64\\Debug\\Einmaleins.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

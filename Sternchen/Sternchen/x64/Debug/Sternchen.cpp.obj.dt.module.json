@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Sternchen\\x64\\Debug\\Sternchen.obj",
+            "outputs": [
+                "Sternchen\\x64\\Debug\\Sternchen.cpp.obj.dt.module.json",
+                "Sternchen\\x64\\Debug\\Sternchen.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

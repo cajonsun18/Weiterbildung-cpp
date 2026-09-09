@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Tannenbaum\\x64\\Debug\\Tannenbaum.obj",
+            "outputs": [
+                "Tannenbaum\\x64\\Debug\\Tannenbaum.cpp.obj.dt.module.json",
+                "Tannenbaum\\x64\\Debug\\Tannenbaum.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
