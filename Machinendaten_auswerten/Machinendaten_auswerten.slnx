@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Machinendaten_auswerten.vcxproj" Id="086b9c00-6405-4729-8111-7f2fb4dca44e" />
+</Solution>

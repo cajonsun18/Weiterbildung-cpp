@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Tage_im_Monat\\x64\\Debug\\Tage_im_Monat.obj",
+            "outputs": [
+                "Tage_im_Monat\\x64\\Debug\\Tage_im_Monat.cpp.obj.dt.module.json",
+                "Tage_im_Monat\\x64\\Debug\\Tage_im_Monat.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

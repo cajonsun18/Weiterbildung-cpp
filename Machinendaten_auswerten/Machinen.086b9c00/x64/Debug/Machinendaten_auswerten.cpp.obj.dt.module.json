@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Machinen.086b9c00\\x64\\Debug\\Machinendaten_auswerten.obj",
+            "outputs": [
+                "Machinen.086b9c00\\x64\\Debug\\Machinendaten_auswerten.cpp.obj.dt.module.json",
+                "Machinen.086b9c00\\x64\\Debug\\Machinendaten_auswerten.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
