@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Zahlenraten.vcxproj" Id="ab604c60-0ee0-4626-bbec-d72252bb1e36" />
+  <Project Path="Zahlenraten2.vcxproj" Id="14e91910-55cf-49c5-a2b5-cc6adf95e45f" />
 </Solution>

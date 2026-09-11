@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Zahlenraten.vcxproj" Id="ab604c60-0ee0-4626-bbec-d72252bb1e36" />
+  <Project Path="Kindergeld_3.vcxproj" Id="1b5f7d93-59e3-47b2-9e24-a71dffad556d" />
 </Solution>

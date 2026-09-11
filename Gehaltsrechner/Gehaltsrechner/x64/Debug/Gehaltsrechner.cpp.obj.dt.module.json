@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Gehaltsrechner\\x64\\Debug\\Gehaltsrechner.obj",
+            "outputs": [
+                "Gehaltsrechner\\x64\\Debug\\Gehaltsrechner.cpp.obj.dt.module.json",
+                "Gehaltsrechner\\x64\\Debug\\Gehaltsrechner.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

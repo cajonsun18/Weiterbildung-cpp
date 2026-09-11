@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zahlenraten2\\x64\\Debug\\Zahlenraten2.obj",
+            "outputs": [
+                "Zahlenraten2\\x64\\Debug\\Zahlenraten2.cpp.obj.dt.module.json",
+                "Zahlenraten2\\x64\\Debug\\Zahlenraten2.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

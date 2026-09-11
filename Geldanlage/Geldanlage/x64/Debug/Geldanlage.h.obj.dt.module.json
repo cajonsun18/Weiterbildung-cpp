@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Geldanlage\\x64\\Debug\\Geldanlage.obj",
+            "outputs": [
+                "Geldanlage\\x64\\Debug\\Geldanlage.h.obj.dt.module.json",
+                "Geldanlage\\x64\\Debug\\Geldanlage.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
