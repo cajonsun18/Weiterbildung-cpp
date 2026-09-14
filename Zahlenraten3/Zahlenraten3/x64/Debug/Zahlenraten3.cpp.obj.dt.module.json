@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zahlenraten3\\x64\\Debug\\Zahlenraten3.obj",
+            "outputs": [
+                "Zahlenraten3\\x64\\Debug\\Zahlenraten3.cpp.obj.dt.module.json",
+                "Zahlenraten3\\x64\\Debug\\Zahlenraten3.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

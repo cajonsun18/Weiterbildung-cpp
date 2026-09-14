@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zufallszahlen2\\x64\\Debug\\funktionen.obj",
+            "outputs": [
+                "Zufallszahlen2\\x64\\Debug\\funktionen.cpp.obj.dt.module.json",
+                "Zufallszahlen2\\x64\\Debug\\funktionen.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

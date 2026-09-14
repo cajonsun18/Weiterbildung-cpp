@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zufallszahl3\\x64\\Debug\\stdlib.obj",
+            "outputs": [
+                "Zufallszahl3\\x64\\Debug\\stdlib.h.obj.dt.module.json",
+                "Zufallszahl3\\x64\\Debug\\stdlib.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

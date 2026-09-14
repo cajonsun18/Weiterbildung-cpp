@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zufallszahl3\\x64\\Debug\\Zufallszahl3.obj",
+            "outputs": [
+                "Zufallszahl3\\x64\\Debug\\Zufallszahl3.cpp.obj.dt.module.json",
+                "Zufallszahl3\\x64\\Debug\\Zufallszahl3.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
