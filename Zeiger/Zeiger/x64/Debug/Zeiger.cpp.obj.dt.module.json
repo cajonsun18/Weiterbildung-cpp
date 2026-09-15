@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zeiger\\x64\\Debug\\Zeiger.obj",
+            "outputs": [
+                "Zeiger\\x64\\Debug\\Zeiger.cpp.obj.dt.module.json",
+                "Zeiger\\x64\\Debug\\Zeiger.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

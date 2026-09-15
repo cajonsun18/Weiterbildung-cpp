@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "DatumsZeiger\\x64\\Debug\\DatumsZeiger.obj",
+            "outputs": [
+                "DatumsZeiger\\x64\\Debug\\DatumsZeiger.cpp.obj.dt.module.json",
+                "DatumsZeiger\\x64\\Debug\\DatumsZeiger.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

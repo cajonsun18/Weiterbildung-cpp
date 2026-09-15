@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="DatumsReferenz.vcxproj" Id="b17d5c1e-5880-4d41-9f6d-2491d4228e81" />
+  <Project Path="FunctionTemplates.vcxproj" Id="f5c32eb9-a733-4b14-99bb-1476ec17a2f3" />
 </Solution>

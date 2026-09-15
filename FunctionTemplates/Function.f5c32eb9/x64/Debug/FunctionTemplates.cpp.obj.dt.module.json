@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Function.f5c32eb9\\x64\\Debug\\FunctionTemplates.obj",
+            "outputs": [
+                "Function.f5c32eb9\\x64\\Debug\\FunctionTemplates.cpp.obj.dt.module.json",
+                "Function.f5c32eb9\\x64\\Debug\\FunctionTemplates.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
