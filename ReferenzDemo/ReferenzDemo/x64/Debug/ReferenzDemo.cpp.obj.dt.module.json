@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ReferenzDemo\\x64\\Debug\\ReferenzDemo.obj",
+            "outputs": [
+                "ReferenzDemo\\x64\\Debug\\ReferenzDemo.cpp.obj.dt.module.json",
+                "ReferenzDemo\\x64\\Debug\\ReferenzDemo.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

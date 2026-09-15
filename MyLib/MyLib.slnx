@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MyLib.vcxproj" Id="ddc3fd26-0159-4f41-aa39-5594f3ab620d" />
+</Solution>

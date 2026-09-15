@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "MyLib\\x64\\Debug\\MyLib.obj",
+            "outputs": [
+                "MyLib\\x64\\Debug\\MyLib.cpp.obj.dt.module.json",
+                "MyLib\\x64\\Debug\\MyLib.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
