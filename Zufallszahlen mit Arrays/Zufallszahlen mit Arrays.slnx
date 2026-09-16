@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Zufallszahlen mit Arrays.vcxproj" Id="81e8f13b-8375-4b0a-afe4-1950773e075e" />
+</Solution>

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zufallsz.81e8f13b\\x64\\Debug\\Zufallszahlen mit Arrays.obj",
+            "outputs": [
+                "Zufallsz.81e8f13b\\x64\\Debug\\Zufallszahlen mit Arrays.cpp.obj.dt.module.json",
+                "Zufallsz.81e8f13b\\x64\\Debug\\Zufallszahlen mit Arrays.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
