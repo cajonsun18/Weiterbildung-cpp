@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zufallsz.7dc2270f\\x64\\Debug\\Zufallszahlen mit Vector.obj",
+            "outputs": [
+                "Zufallsz.7dc2270f\\x64\\Debug\\Zufallszahlen mit Vector.cpp.obj.dt.module.json",
+                "Zufallsz.7dc2270f\\x64\\Debug\\Zufallszahlen mit Vector.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

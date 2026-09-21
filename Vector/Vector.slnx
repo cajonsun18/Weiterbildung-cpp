@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Zufallszahlen mit Arrays 2.vcxproj" Id="3723e867-129b-4189-8e22-50636b48408f" />
+  <Project Path="Vector.vcxproj" Id="0152d4eb-d50f-4b40-b221-8bc9ff65dcd2" />
 </Solution>

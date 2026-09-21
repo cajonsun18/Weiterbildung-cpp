@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Funktion.4f75d7d4\\x64\\Debug\\Funktionsüberladung Schaltjahr.obj",
+            "outputs": [
+                "Funktion.4f75d7d4\\x64\\Debug\\Funktionsüberladung Schaltjahr.cpp.obj.dt.module.json",
+                "Funktion.4f75d7d4\\x64\\Debug\\Funktionsüberladung Schaltjahr.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Struktur Person\\x64\\Debug\\Struktur Person.obj",
+            "outputs": [
+                "Struktur Person\\x64\\Debug\\Struktur Person.cpp.obj.dt.module.json",
+                "Struktur Person\\x64\\Debug\\Struktur Person.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

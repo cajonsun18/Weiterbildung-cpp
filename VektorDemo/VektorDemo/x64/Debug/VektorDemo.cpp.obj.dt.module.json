@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "VektorDemo\\x64\\Debug\\VektorDemo.obj",
+            "outputs": [
+                "VektorDemo\\x64\\Debug\\VektorDemo.cpp.obj.dt.module.json",
+                "VektorDemo\\x64\\Debug\\VektorDemo.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

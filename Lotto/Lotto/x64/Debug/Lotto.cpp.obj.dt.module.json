@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lotto\\x64\\Debug\\Lotto.obj",
+            "outputs": [
+                "Lotto\\x64\\Debug\\Lotto.cpp.obj.dt.module.json",
+                "Lotto\\x64\\Debug\\Lotto.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

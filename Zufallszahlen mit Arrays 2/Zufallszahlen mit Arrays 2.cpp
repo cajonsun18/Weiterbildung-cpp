@@ -6,7 +6,7 @@ using namespace std;
 
 int generiereZufallszahl(int min, int max);
 void sortierungsBubbleSort(int z[], int z_length);
-void ausgabe(int z[], int z_length);
+void ausgabe(int *z, int z_length);
 
 int main()
 {
@@ -57,7 +57,7 @@ void sortierungsBubbleSort(int z[], int z_length)
 }
 
 // Gibt jedes Element des Arrays aus. 20 Werte pro Zeile
-void ausgabe(int z[], int z_length)
+/*void ausgabe(int z[], int z_length)
 {
 	for (int i = 0; i < z_length; i += 20)
 	{
@@ -67,5 +67,13 @@ void ausgabe(int z[], int z_length)
 		}
 
 		cout << endl;
+	}
+}*/
+
+void ausgabe(int *z, int z_length)
+{
+	for (int i = 0; i < z_length; i ++)
+	{
+		cout << left << setw(5) << z[i];
 	}
 }

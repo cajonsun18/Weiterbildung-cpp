@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Pair_Tupel_Demo\\x64\\Debug\\Pair_Tupel_Demo.obj",
+            "outputs": [
+                "Pair_Tupel_Demo\\x64\\Debug\\Pair_Tupel_Demo.cpp.obj.dt.module.json",
+                "Pair_Tupel_Demo\\x64\\Debug\\Pair_Tupel_Demo.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

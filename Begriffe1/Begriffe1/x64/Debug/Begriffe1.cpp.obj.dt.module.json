@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Begriffe1\\x64\\Debug\\Begriffe1.obj",
+            "outputs": [
+                "Begriffe1\\x64\\Debug\\Begriffe1.cpp.obj.dt.module.json",
+                "Begriffe1\\x64\\Debug\\Begriffe1.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
