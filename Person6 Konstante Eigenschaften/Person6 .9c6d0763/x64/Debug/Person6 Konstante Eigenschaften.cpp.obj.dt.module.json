@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Person6 .9c6d0763\\x64\\Debug\\Person6 Konstante Eigenschaften.obj",
+            "outputs": [
+                "Person6 .9c6d0763\\x64\\Debug\\Person6 Konstante Eigenschaften.cpp.obj.dt.module.json",
+                "Person6 .9c6d0763\\x64\\Debug\\Person6 Konstante Eigenschaften.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

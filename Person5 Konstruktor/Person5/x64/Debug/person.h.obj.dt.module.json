@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Person5\\x64\\Debug\\person.obj",
+            "outputs": [
+                "Person5\\x64\\Debug\\person.h.obj.dt.module.json",
+                "Person5\\x64\\Debug\\person.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

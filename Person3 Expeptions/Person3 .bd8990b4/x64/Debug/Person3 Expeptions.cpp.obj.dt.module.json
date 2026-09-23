@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Person3 .bd8990b4\\x64\\Debug\\Person3 Expeptions.obj",
+            "outputs": [
+                "Person3 .bd8990b4\\x64\\Debug\\Person3 Expeptions.cpp.obj.dt.module.json",
+                "Person3 .bd8990b4\\x64\\Debug\\Person3 Expeptions.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

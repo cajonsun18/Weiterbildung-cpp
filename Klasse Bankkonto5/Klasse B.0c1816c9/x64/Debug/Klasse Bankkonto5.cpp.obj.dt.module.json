@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Klasse B.0c1816c9\\x64\\Debug\\Klasse Bankkonto5.obj",
+            "outputs": [
+                "Klasse B.0c1816c9\\x64\\Debug\\Klasse Bankkonto5.cpp.obj.dt.module.json",
+                "Klasse B.0c1816c9\\x64\\Debug\\Klasse Bankkonto5.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

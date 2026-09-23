@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Klasse B.b43276b0\\x64\\Debug\\kontoart.obj",
+            "outputs": [
+                "Klasse B.b43276b0\\x64\\Debug\\kontoart.h.obj.dt.module.json",
+                "Klasse B.b43276b0\\x64\\Debug\\kontoart.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

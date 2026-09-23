@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Bankkont.449c1d81\\x64\\Debug\\Bankkonto4 Konstruktor.obj",
+            "outputs": [
+                "Bankkont.449c1d81\\x64\\Debug\\Bankkonto4 Konstruktor.cpp.obj.dt.module.json",
+                "Bankkont.449c1d81\\x64\\Debug\\Bankkonto4 Konstruktor.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

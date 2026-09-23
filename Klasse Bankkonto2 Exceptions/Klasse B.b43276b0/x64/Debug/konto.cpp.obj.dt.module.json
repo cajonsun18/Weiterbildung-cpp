@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Klasse B.b43276b0\\x64\\Debug\\konto.obj",
+            "outputs": [
+                "Klasse B.b43276b0\\x64\\Debug\\konto.cpp.obj.dt.module.json",
+                "Klasse B.b43276b0\\x64\\Debug\\konto.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

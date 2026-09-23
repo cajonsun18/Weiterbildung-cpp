@@ -18,9 +18,6 @@ int main()
     ifstream eingabedatei;    // Variable für Dateizugriff (einlesen) anlegen
     ofstream ausgabedatei;    // Variable für Dateizugriff (schreiben) anlegen
 
-    //eingabedatei.open(dateiname, ios_base::in);
-    //ausgabedatei.open(dateiname, ios_base::app);
-
     ///////////////////////////////////////////
     // Aufgabe A
     vector<string> vec_string1;
@@ -40,7 +37,7 @@ int main()
     if (!ausgabedatei.is_open()) 
     { 
         cout << "Fehlermeldung: Ausgabedatei konnte nicht geöffnet werden";
-        eingabedatei.close(); 
+        ausgabedatei.close();
         return -2; 
     }
 
@@ -58,6 +55,7 @@ int main()
     if (!eingabedatei.is_open())
     {
         cout << "Fehlermeldung: Eingabedatei konnte nicht geöffnet werden" ;
+        eingabedatei.close();
         return -1;
     }
 
@@ -93,9 +91,6 @@ int main()
     anonymisieren(anzeigebegriff);
 
     cout << "Der Anzeigebegriff lautet: " << anzeigebegriff << endl;
-
-    ///////////////////////////////////////////
-    // Aufgabe Begriff 4
 }
 
 // Generiert eine Zufallszahl zwischen min und max
