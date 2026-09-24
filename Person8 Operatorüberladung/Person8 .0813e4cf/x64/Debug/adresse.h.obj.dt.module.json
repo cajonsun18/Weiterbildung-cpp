@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Person8 .0813e4cf\\x64\\Debug\\adresse.obj",
+            "outputs": [
+                "Person8 .0813e4cf\\x64\\Debug\\adresse.h.obj.dt.module.json",
+                "Person8 .0813e4cf\\x64\\Debug\\adresse.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

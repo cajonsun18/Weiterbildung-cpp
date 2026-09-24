@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "DatumsKlasse\\x64\\Debug\\datum.obj",
+            "outputs": [
+                "DatumsKlasse\\x64\\Debug\\datum.cpp.obj.dt.module.json",
+                "DatumsKlasse\\x64\\Debug\\datum.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
