@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Person8 Operatorüberladung.vcxproj" Id="0813e4cf-fe01-47ab-9d39-11ead469170c" />
+  <Project Path="Demo Vererbung.vcxproj" Id="f08f143c-da47-47eb-b99a-afdb72d44fdf" />
 </Solution>

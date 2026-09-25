@@ -3,6 +3,13 @@
 #include <stdexcept>
 #include <ostream>
 
+// ---------- Destruktoren ----------
+
+Person::~Person()
+{
+	delete _adresse;
+}
+
 // ---------- Konstruktoren ----------
 Person::Person()
 	: Person("NV", "NV")

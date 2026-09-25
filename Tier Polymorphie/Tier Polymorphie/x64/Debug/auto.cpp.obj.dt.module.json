@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Tier Polymorphie\\x64\\Debug\\auto.obj",
+            "outputs": [
+                "Tier Polymorphie\\x64\\Debug\\auto.cpp.obj.dt.module.json",
+                "Tier Polymorphie\\x64\\Debug\\auto.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

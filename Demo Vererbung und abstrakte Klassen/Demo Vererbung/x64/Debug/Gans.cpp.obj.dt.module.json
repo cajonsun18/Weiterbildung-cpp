@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Demo Vererbung\\x64\\Debug\\Gans.obj",
+            "outputs": [
+                "Demo Vererbung\\x64\\Debug\\Gans.cpp.obj.dt.module.json",
+                "Demo Vererbung\\x64\\Debug\\Gans.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

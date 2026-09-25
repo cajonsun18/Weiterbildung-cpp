@@ -17,6 +17,8 @@ private:
 
 public:
 	// ---------- Konstruktoren ----------
+	~Person();
+	
 	Person();
 	Person(string nachname, string vorname);
 	Person(string nachname, string vorname,
